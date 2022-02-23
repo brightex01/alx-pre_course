@@ -1,4 +1,1 @@
-main
-echo > up_to_date
 git pull origin main
-master
